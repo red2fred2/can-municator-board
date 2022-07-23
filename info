@@ -4,7 +4,7 @@
   "name": "can-municator-board",
   "content": "",
   "created_at": "2022-07-23 13:31:08",
-  "updated_at": "2022-07-23 13:31:08",
+  "updated_at": "2022-07-23 16:20:44",
   "stick": "",
   "documents": [
     {
@@ -14,7 +14,14 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {},
+      "components": {
+        "5b45d33297bc479dbf3792c9cfa43506": 1,
+        "715e6908d3214fe5b9c6d3a0e5225b16": 1,
+        "32552a5bd79142608fea78c60ecf6cc2": 1,
+        "6107490819734af0acd77bc02316fe34": 2,
+        "914a80e9a29b58b484410aad40359773": 1,
+        "3e88e105e6f8631fa167c6e892861b8a": 2
+      },
       "BOM": [
         [
           "Value",
@@ -22,18 +29,107 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "Pi Pico",
+          1,
+          "PIPICO_FOOTPRINT",
+          "A1",
+          {
+            "BOM_Manufacturer": "Raspberry Pi",
+            "BOM_Manufacturer Part": "SC0915",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "2648-SC0915TR-ND",
+            "puuid": "945339e5cc764ea8ab093a951c1f4a09",
+            "uuid": "715e6908d3214fe5b9c6d3a0e5225b16"
+          }
+        ],
+        [
+          "15pF",
+          2,
+          "C0402",
+          "C1,C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402CG150J500NT",
+            "BOM_Supplier Part": "C1548",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "3e88e105e6f8631fa167c6e892861b8a"
+          }
+        ],
+        [
+          "PZ254V-11-02P",
+          2,
+          "HDR-TH_2P-P2.54-V-M",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492401",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-02P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "6107490819734af0acd77bc02316fe34"
+          }
+        ],
+        [
+          "SIT1050T",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS5.9-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C313021",
+            "BOM_Manufacturer": "SIT",
+            "BOM_Manufacturer Part": "SIT1050T",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "c7ea67703a744a75a83a491c6f376b72",
+            "uuid": "5b45d33297bc479dbf3792c9cfa43506"
+          }
+        ],
+        [
+          "MCP2515T-I/SO",
+          1,
+          "SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MICROCHIP",
+            "BOM_Manufacturer Part": "MCP2515T-I/SO",
+            "BOM_Supplier Part": "C153782",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "45c3bbdf7fba47d1b4e39c9fc6f81f34",
+            "uuid": "32552a5bd79142608fea78c60ecf6cc2"
+          }
+        ],
+        [
+          "20MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YXC",
+            "BOM_Manufacturer Part": "X322520MSB4SI",
+            "BOM_Supplier Part": "C9004",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fde525906f004b04890fe3f9fe02cca8",
+            "uuid": "914a80e9a29b58b484410aad40359773"
+          }
         ]
       ],
-      "updateTime": 1658601068,
+      "updateTime": 1658611244,
       "createTime": 1658601068,
       "histories": [],
       "created_at": "2022-07-23 13:31:08",
-      "updated_at": "2022-07-23 13:31:08"
+      "updated_at": "2022-07-23 16:20:44"
     }
   ],
   "sort": [],
   "title": "can-municator-board",
   "foldername": "can-municator-board",
   "schfilename": "can-municator-board.json",
-  "schfilemtime": 1658601065635
+  "schfilemtime": 1658611240414
 }
