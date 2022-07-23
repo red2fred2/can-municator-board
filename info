@@ -4,7 +4,7 @@
   "name": "can-municator-board",
   "content": "",
   "created_at": "2022-07-23 13:31:08",
-  "updated_at": "2022-07-23 16:20:44",
+  "updated_at": "2022-07-23 16:39:15",
   "stick": "",
   "documents": [
     {
@@ -120,16 +120,16 @@
           }
         ]
       ],
-      "updateTime": 1658611244,
+      "updateTime": 1658612355,
       "createTime": 1658601068,
       "histories": [],
       "created_at": "2022-07-23 13:31:08",
-      "updated_at": "2022-07-23 16:20:44"
+      "updated_at": "2022-07-23 16:39:15"
     }
   ],
   "sort": [],
   "title": "can-municator-board",
   "foldername": "can-municator-board",
   "schfilename": "can-municator-board.json",
-  "schfilemtime": 1658611240414
+  "schfilemtime": 1658612351278
 }
