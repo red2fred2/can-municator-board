@@ -4,7 +4,7 @@
   "name": "can-municator-board",
   "content": "",
   "created_at": "2022-07-23 13:31:08",
-  "updated_at": "2022-07-23 16:42:35",
+  "updated_at": "2022-07-24 01:26:18",
   "stick": "",
   "documents": [
     {
@@ -125,6 +125,30 @@
       "histories": [],
       "created_at": "2022-07-23 13:31:08",
       "updated_at": "2022-07-23 16:42:35"
+    },
+    {
+      "uuid": "f7802f78e1e652badb2b9f7bf8321131",
+      "puuid": "fad3e210321f9a7d00f2c1b4c69e67df",
+      "title": "PCB_can-municator-board",
+      "filename": "PCB_can-municator-board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "945339e5cc764ea8ab093a951c1f4a09": 1,
+        "e6b180e1316a4d0690f78b72797504c2": 2,
+        "0821ed6ea50c44f4909e4be7610e4198": 2,
+        "c7ea67703a744a75a83a491c6f376b72": 1,
+        "45c3bbdf7fba47d1b4e39c9fc6f81f34": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1
+      },
+      "BOM": [],
+      "updateTime": 1658643978,
+      "createTime": 1658613002,
+      "histories": [],
+      "created_at": "2022-07-23 16:50:02",
+      "updated_at": "2022-07-24 01:26:18"
     }
   ],
   "sort": [],
